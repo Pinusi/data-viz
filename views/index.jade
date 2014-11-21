@@ -1,4 +1,7 @@
 extends layout
 
 block content
-	div.container Ciao ciao #{ciao} ciao prova
+	//- div.container Ciao ciao #{ciao} ciao prova
+	div.gallery(id="chart_sunburst")
+		div(id="explanation" style="visibility: hidden;")
+			span(id="percentage")

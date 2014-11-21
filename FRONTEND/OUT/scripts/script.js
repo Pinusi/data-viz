@@ -28,7 +28,11 @@ DATAVIZ.Main.prototype.buildGraph = function()
 		.attr("height", h)
 		.append("svg:g")
 		.attr("id", "container")
-		.attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");
+		.attr("transform", "translate(" + w / 2 + "," + h / 2 + ")")
+      
+      this.vis.append("svg:circle")
+            .attr("r", r)
+            .style("opacity", 0);
 
 	this.partition = d3.layout.partition()
 		.sort(null)
@@ -44,9 +48,9 @@ DATAVIZ.Main.prototype.buildGraph = function()
 	this.formatData();
 };
 
-DATAVIZ.Main.prototype.mouseover = function( value ) 
+DATAVIZ.Main.prototype.mouseover = function( current ) 
 {
-	var percentage = (100 * value / this.totalSize).toPrecision(3);
+	var percentage = (100 * current.value / this.totalSize).toPrecision(3);
 	var percentageString = percentage + "%";
 	if (percentage < 0.1) {
 		percentageString = "< 0.1%";
@@ -57,11 +61,48 @@ DATAVIZ.Main.prototype.mouseover = function( value )
 
 	d3.select("#explanation")
 		.style("visibility", "");
+
+      // Fade all the segments.
+      d3.selectAll("path")
+            .style("opacity", 0.3);
+
+      var sequenceArray = this.getAncestors(current);
+      // Then highlight only those that are an ancestor of the current segment.
+      this.vis.selectAll("path")
+            .filter(function(node) {
+                  return (sequenceArray.indexOf(node) >= 0);
+            })
+            .style("opacity", 1);
 }
 
-DATAVIZ.Main.prototype.mouseleave = function() 
+DATAVIZ.Main.prototype.getAncestors = function( node ) 
 {
-	d3.select("#explanation")
+      var path = [];
+      var current = node;
+  while (current.parent) {
+    path.unshift(current);
+    current = current.parent;
+  }
+  return path;
+}
+
+DATAVIZ.Main.prototype.mouseleave = function( current ) 
+{
+      var that = this;
+	
+      // Deactivate all segments during transition.
+      d3.selectAll("path").on("mouseover", null);
+
+      // Transition each segment to full opacity and then reactivate it.
+      d3.selectAll("path")
+            .transition()
+            .duration(1000)
+            .style("opacity", 1)
+            .each("end", function() {
+                  d3.select(this).on("mouseover", function(d) { that.mouseover(d) });
+            });
+
+      d3.select("#explanation")
 		.style("visibility", "hidden");
 }
 
@@ -133,11 +174,11 @@ DATAVIZ.Main.prototype.drawGraph = function( data )
 		.style("stroke", "#fff")
 		.style("fill", function(d) { return that.color((d.children ? d : d.parent).name); })
 		// .each( function(d) { d.x0 = d.x; d.dx0 = d.dx; }) // Stash the old values for transition.
-		.on("mouseover", function(d) { that.mouseover(d.value) });
+		.on("mouseover", function(d) { that.mouseover(d) });
 	
 	this.totalSize = path.node().__data__.value;
 
-	d3.select("#container").on("mouseleave", that.mouseleave);
+	d3.select("#container").on("mouseleave", function(d) { that.mouseleave(d) });
 };
 
 $( document ).ready( function()

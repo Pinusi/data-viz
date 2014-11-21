@@ -1,0 +1,5792 @@
+[
+  {
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3110007,
+	    	"name":"Catering -staff meetings"
+	    },
+	    "vendor":{
+	    	"customer_account":"V004203",
+	    	"customer_name":"Crave Catering"
+	    },
+	    "amount":"59.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"-38.47"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005147",
+	    	"customer_name":"Optus - Direct Debit"
+	    },
+	    "amount":"38.47"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005147",
+	    	"customer_name":"Optus - Direct Debit"
+	    },
+	    "amount":"49.04"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005147",
+	    	"customer_name":"Optus - Direct Debit"
+	    },
+	    "amount":"45.81"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"47.49"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"52.28"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"48.04"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"1.26"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006050",
+	    	"customer_name":"Vodafone Pty Ltd -Primary Account 667296586/754066312ACT"
+	    },
+	    "amount":"-54.16"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006050",
+	    	"customer_name":"Vodafone Pty Ltd -Primary Account 667296586/754066312ACT"
+	    },
+	    "amount":"-287.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"97.62"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3455001,
+	    	"name":"Postage & couriers -Stamps"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007112",
+	    	"customer_name":"Mail Call Couriers Melbourne Pty Ltd"
+	    },
+	    "amount":"5.81"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3455002,
+	    	"name":"Postage & Couriers -Mail out"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"54.95"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"95.96"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"46.86"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3545001,
+	    	"name":"Stationery -Consumables"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007259",
+	    	"customer_name":"Quick Corporate Australia Pty Ltd"
+	    },
+	    "amount":"36.99"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3545001,
+	    	"name":"Stationery -Consumables"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007259",
+	    	"customer_name":"Quick Corporate Australia Pty Ltd"
+	    },
+	    "amount":"169.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3545001,
+	    	"name":"Stationery -Consumables"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007259",
+	    	"customer_name":"Quick Corporate Australia Pty Ltd"
+	    },
+	    "amount":"160.96"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3545001,
+	    	"name":"Stationery -Consumables"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007259",
+	    	"customer_name":"Quick Corporate Australia Pty Ltd"
+	    },
+	    "amount":"28.79"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"145"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"145"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"145"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"454.55"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"445.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"200"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"559.09"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"245.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"523.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"540.46"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007533",
+	    	"customer_name":"HRG Australia"
+	    },
+	    "amount":"138.18"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575001,
+	    	"name":"Travel Domestic -Bus"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"239.99"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575001,
+	    	"name":"Travel Domestic -Bus"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"795.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"435.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"532"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"532"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"586.55"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"133.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"560.94"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"373.12"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.32"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"213.08"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"217.28"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"377.78"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007533",
+	    	"customer_name":"HRG Australia"
+	    },
+	    "amount":"363.26"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"874.58"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.001",
+	    	"name":"Cricket Operations - Staff"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,615.05"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3110001,
+	    	"name":"Catering -Guests"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003190",
+	    	"customer_name":"Olive Cafe"
+	    },
+	    "amount":"64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3110008,
+	    	"name":"Catering -Committee meetings"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002852",
+	    	"customer_name":"Libby Reid Catering (Vic) P/L"
+	    },
+	    "amount":"137.5"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3125004,
+	    	"name":"Communication -Mobiles"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003395",
+	    	"customer_name":"Optus Billing Services P/L"
+	    },
+	    "amount":"5.86"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3190001,
+	    	"name":"Entertainment -Guests"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007156",
+	    	"customer_name":"Balloonaversal Entertainment"
+	    },
+	    "amount":"520"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3455002,
+	    	"name":"Postage & Couriers -Mail out"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"179"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"258.18"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"281.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"368.18"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,577.08"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"195.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"141.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"291.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"227.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"115.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"420"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"195.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"461.41"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"222.73"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"153.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"188.18"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,754.55"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,760.33"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"215.09"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"436"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"402.36"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"919.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,760.33"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,102.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,444.00"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"688.91"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,760.33"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"331.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"546.87"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"448.36"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,102.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,102.82"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"-864.16"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"889.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,760.33"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"511.45"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"469.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"292.55"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"641.09"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,724.27"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,127.24"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"997.44"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,254.47"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"770.67"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,754.55"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"457.19"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"881.08"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"-864.16"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"789.91"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007533",
+	    	"customer_name":"HRG Australia"
+	    },
+	    "amount":"570.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007533",
+	    	"customer_name":"HRG Australia"
+	    },
+	    "amount":"570.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007533",
+	    	"customer_name":"HRG Australia"
+	    },
+	    "amount":"570.64"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"194.68"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"-592.78"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"194.68"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"87.14"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"65.91"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,458.01"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,879.76"
+	},
+  	{
+	    "project":{
+	    	"code":"101.001.002",
+	    	"name":"General Manager Costs"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"11,337.30"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3110007,
+	    	"name":"Catering -staff meetings"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002852",
+	    	"customer_name":"Libby Reid Catering (Vic) P/L"
+	    },
+	    "amount":"437"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"2,916.67"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"2,916.67"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006996",
+	    	"customer_name":"Steve Rixon"
+	    },
+	    "amount":"5,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,166.66"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135008,
+	    	"name":"Consultant -Coaches"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002126",
+	    	"customer_name":"Cricket Solutions"
+	    },
+	    "amount":"3,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135014,
+	    	"name":"Consultant -Management"
+	    },
+	    "vendor":{
+	    	"customer_account":"V004048",
+	    	"customer_name":"Gemba Group Pty Ltd"
+	    },
+	    "amount":"3,792.24"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3135014,
+	    	"name":"Consultant -Management"
+	    },
+	    "vendor":{
+	    	"customer_account":"V004048",
+	    	"customer_name":"Gemba Group Pty Ltd"
+	    },
+	    "amount":"3,792.24"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220001,
+	    	"name":"Freight & packaging -Event presentations"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"263.64"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220001,
+	    	"name":"Freight & packaging -Event presentations"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"181.82"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220001,
+	    	"name":"Freight & packaging -Event presentations"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"2,521.15"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220001,
+	    	"name":"Freight & packaging -Event presentations"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"1,818.18"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220003,
+	    	"name":"Freight & packaging -Equipment"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"83.41"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220003,
+	    	"name":"Freight & packaging -Equipment"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"7,819.94"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.98"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"33.34"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"144.43"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"151.24"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,013.89"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,555.26"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"18.78"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"148.31"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"43.19"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"83.41"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455002,
+	    	"name":"Postage & Couriers -Mail out"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"90.52"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"20.45"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"18.82"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"17.85"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"44.02"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"19.16"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002582",
+	    	"customer_name":"Toll Fast"
+	    },
+	    "amount":"32.7"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007112",
+	    	"customer_name":"Mail Call Couriers Melbourne Pty Ltd"
+	    },
+	    "amount":"9.86"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005000",
+	    	"customer_name":"Australia Post"
+	    },
+	    "amount":"43.59"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"66.47"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"61.95"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3455003,
+	    	"name":"Postage & Couriers -Express mail"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"56.55"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"195.45"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"313.64"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.001",
+	    	"name":"Team Performance - Admin Costs"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"631.95"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.002",
+	    	"name":"Team Performance Review"
+	    },
+	    "category":{
+	    	"code":3135014,
+	    	"name":"Consultant -Management"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007136",
+	    	"customer_name":"Crank Sports"
+	    },
+	    "amount":"26,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"102.001.002",
+	    	"name":"Team Performance Review"
+	    },
+	    "category":{
+	    	"code":3135014,
+	    	"name":"Consultant -Management"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007136",
+	    	"customer_name":"Crank Sports"
+	    },
+	    "amount":"26,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.001",
+	    	"name":"CA Contracted Players"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"43.11"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.001",
+	    	"name":"CA Contracted Players"
+	    },
+	    "category":{
+	    	"code":3220006,
+	    	"name":"Freight & packaging - Show Group"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"45.87"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005640",
+	    	"customer_name":"Doug Bollinger"
+	    },
+	    "amount":"2,763.60"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006073",
+	    	"customer_name":"Xavier Doherty"
+	    },
+	    "amount":"505.76"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007099",
+	    	"customer_name":"Shaun Marsh"
+	    },
+	    "amount":"1,500.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005694",
+	    	"customer_name":"Michael Hussey"
+	    },
+	    "amount":"768"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005694",
+	    	"customer_name":"Michael Hussey"
+	    },
+	    "amount":"1,378.22"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005187",
+	    	"customer_name":"Steven P Smith"
+	    },
+	    "amount":"2,440.59"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007155",
+	    	"customer_name":"Trent Copeland"
+	    },
+	    "amount":"1,996.34"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006019",
+	    	"customer_name":"Ricky Ponting"
+	    },
+	    "amount":"960"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"8,134.15"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,035.97"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.002",
+	    	"name":"PPP CA Players"
+	    },
+	    "category":{
+	    	"code":3580005,
+	    	"name":"Travel International -Excess baggage"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"12,964.20"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006452",
+	    	"customer_name":"Ben Hilfenhaus"
+	    },
+	    "amount":"205.4"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3570001,
+	    	"name":"Travel Accom. International -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"11,584.07"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"180.91"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"249.19"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"123.37"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"157.73"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"244.28"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,481.02"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,481.02"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,962.04"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,524.10"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,704.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,931.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,604.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"21,198.40"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,206.10"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"13,449.84"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,582.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,635.84"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,129.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"3,927.84"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"188.4"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"-3,747.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007055",
+	    	"customer_name":"Trade Wings LTD"
+	    },
+	    "amount":"355.68"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"8,976.14"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,600.52"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,188.09"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"8,058.38"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,319.24"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,981.56"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,365.56"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,284.36"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"147.82"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,882.40"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,705.92"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,247.88"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"10,170.40"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"120"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"55"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"11,431.02"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"7,466.32"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,403.81"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"12,419.80"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580008,
+	    	"name":"Travel International - Limousine"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007065",
+	    	"customer_name":"Kylie Ulms"
+	    },
+	    "amount":"96.13"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.003",
+	    	"name":"Overseas Visitor's Period - PPP"
+	    },
+	    "category":{
+	    	"code":3580009,
+	    	"name":"Travel international - Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007451",
+	    	"customer_name":"Go Goodwins Coaches Ltd"
+	    },
+	    "amount":"24,036.05"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.004",
+	    	"name":"Overseas Visitor's Period ACA Staff - PPP"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.32"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.004",
+	    	"name":"Overseas Visitor's Period ACA Staff - PPP"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"215.09"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.004",
+	    	"name":"Overseas Visitor's Period ACA Staff - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,890.74"
+	},
+  	{
+	    "project":{
+	    	"code":"103.001.004",
+	    	"name":"Overseas Visitor's Period ACA Staff - PPP"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"356.9"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.001",
+	    	"name":"Visitor Period - International"
+	    },
+	    "category":{
+	    	"code":3575005,
+	    	"name":"Travel Domestic -Limousine hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"208"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.001",
+	    	"name":"Visitor Period - International"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"19,536.93"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.001",
+	    	"name":"Visitor Period - International"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,821.02"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.001",
+	    	"name":"Visitor Period - International"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"566"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3015001,
+	    	"name":"ACRA expense"
+	    },
+	    "vendor":{
+	    	"customer_account":"V004048",
+	    	"customer_name":"Gemba Group Pty Ltd"
+	    },
+	    "amount":"7,500.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3015001,
+	    	"name":"ACRA expense"
+	    },
+	    "vendor":{
+	    	"customer_account":"V004048",
+	    	"customer_name":"Gemba Group Pty Ltd"
+	    },
+	    "amount":"8,000.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285003,
+	    	"name":"Insurance people -Players"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005372",
+	    	"customer_name":"HBA Health Insurance"
+	    },
+	    "amount":"12,435.10"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285003,
+	    	"name":"Insurance people -Players"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007278",
+	    	"customer_name":"Bupa Australia Pty Ltd"
+	    },
+	    "amount":"26,204.40"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005637",
+	    	"customer_name":"JRM Australia Julia Russell Sports Massage Service"
+	    },
+	    "amount":"99"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006020",
+	    	"customer_name":"Ryan Harris"
+	    },
+	    "amount":"3,005.95"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005065",
+	    	"customer_name":"Daniel Bonanno"
+	    },
+	    "amount":"550"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005417",
+	    	"customer_name":"Dr Helen Clare"
+	    },
+	    "amount":"180"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005417",
+	    	"customer_name":"Dr Helen Clare"
+	    },
+	    "amount":"95"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"219.15"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006263",
+	    	"customer_name":"Imaging@Olympic Park"
+	    },
+	    "amount":"-252.75"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006263",
+	    	"customer_name":"Imaging@Olympic Park"
+	    },
+	    "amount":"252.75"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"120"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005849",
+	    	"customer_name":"Michael Clarke"
+	    },
+	    "amount":"5,315.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005849",
+	    	"customer_name":"Michael Clarke"
+	    },
+	    "amount":"995.5"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003422",
+	    	"customer_name":"Melbourne Orthopaedic Group"
+	    },
+	    "amount":"100"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001296",
+	    	"customer_name":"Australian Sports Commission"
+	    },
+	    "amount":"400"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005181",
+	    	"customer_name":"James Faulkner"
+	    },
+	    "amount":"1,046.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"85"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003422",
+	    	"customer_name":"Melbourne Orthopaedic Group"
+	    },
+	    "amount":"200"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"85"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007155",
+	    	"customer_name":"Trent Copeland"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006020",
+	    	"customer_name":"Ryan Harris"
+	    },
+	    "amount":"1,941.80"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"-85"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"295"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"358.3"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"295"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"120"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003422",
+	    	"customer_name":"Melbourne Orthopaedic Group"
+	    },
+	    "amount":"100"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V003422",
+	    	"customer_name":"Melbourne Orthopaedic Group"
+	    },
+	    "amount":"100"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007013",
+	    	"customer_name":"The Avenue Physiotherapy Centre Pty Ltd"
+	    },
+	    "amount":"85"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006469",
+	    	"customer_name":"Patrick Cummins"
+	    },
+	    "amount":"1,585.00"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005652",
+	    	"customer_name":"Shane Watson"
+	    },
+	    "amount":"1,848.45"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007099",
+	    	"customer_name":"Shaun Marsh"
+	    },
+	    "amount":"2,605.30"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"93.8"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"295"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005637",
+	    	"customer_name":"JRM Australia Julia Russell Sports Massage Service"
+	    },
+	    "amount":"270"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005652",
+	    	"customer_name":"Shane Watson"
+	    },
+	    "amount":"200"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005137",
+	    	"customer_name":"Alex Kountouris Sports Physiotherapist"
+	    },
+	    "amount":"425.5"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"189.1"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005065",
+	    	"customer_name":"Daniel Bonanno"
+	    },
+	    "amount":"85"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"295"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V001609",
+	    	"customer_name":"MIA Victoria"
+	    },
+	    "amount":"295"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007438",
+	    	"customer_name":"Sports Physiotherapist Brent Kirkbride"
+	    },
+	    "amount":"640"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"93.8"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005124",
+	    	"customer_name":"Qscan Radiology Clinics"
+	    },
+	    "amount":"-235"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006075",
+	    	"customer_name":"Ed Cowan"
+	    },
+	    "amount":"630"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005649A",
+	    	"customer_name":"Brett Lee"
+	    },
+	    "amount":"188.6"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3285005,
+	    	"name":"Insurance -Players medical gap"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005252",
+	    	"customer_name":"The Stadium Imaging"
+	    },
+	    "amount":"275"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.002",
+	    	"name":"PPP General"
+	    },
+	    "category":{
+	    	"code":3575001,
+	    	"name":"Travel Domestic -Bus"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"670.47"
+	},
+  	{
+	    "project":{
+	    	"code":"103.003.004",
+	    	"name":"C&W - PPP Contribution to ACA"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"7,162.52"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.001",
+	    	"name":"Payments Outside PPP"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005849",
+	    	"customer_name":"Michael Clarke"
+	    },
+	    "amount":"110.01"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.001",
+	    	"name":"Payments Outside PPP"
+	    },
+	    "category":{
+	    	"code":3750002,
+	    	"name":"Transfer to Season Costs"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005849",
+	    	"customer_name":"Michael Clarke"
+	    },
+	    "amount":"545.71"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3190009,
+	    	"name":"Entertainment -Player family"
+	    },
+	    "vendor":{
+	    	"customer_account":"V007219",
+	    	"customer_name":"Protoys toy professionals Globeworks Pty Ltd"
+	    },
+	    "amount":"1,090.47"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3190009,
+	    	"name":"Entertainment -Player family"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002172",
+	    	"customer_name":"Crown Melbourne Limited"
+	    },
+	    "amount":"9,210.25"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3190009,
+	    	"name":"Entertainment -Player family"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006436",
+	    	"customer_name":"Quay West Sydney"
+	    },
+	    "amount":"12,271.54"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"489.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,890.00"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,318.18"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,927.27"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,173.06"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,118.91"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"215.09"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"502.91"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"70.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"702.91"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"166.92"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"260.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,546.39"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"84.72"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"3,610.45"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"801.43"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,911.09"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"224.18"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,001.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,094.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"437.82"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"543.87"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.32"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"543.87"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"293.27"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"533.51"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"933.65"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"388.73"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"478.73"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"415.09"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,468.95"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"570.2"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"258.58"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"995.58"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"215.09"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"890.51"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"373.12"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"260.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.32"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"224.18"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,414.77"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"446.76"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"293.27"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"347.82"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"501.41"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"327.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"327.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"368.2"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,472.80"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"368.2"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"368.2"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"368.2"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"736.4"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"327.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"327.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.4"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"311.4"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,030.87"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,726.36"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"436.37"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"239.3"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,045.05"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"327.24"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"217.52"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"251.15"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"594.01"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"4,103.72"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,126.66"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,484.22"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"3,201.81"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"120"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,698.44"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,865.76"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,560.00"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"15,613.02"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"1,359.50"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"8,486.16"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"-6,701.69"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"3,138.63"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,734.66"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"6,651.04"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"10,350.03"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.002",
+	    	"name":"Visitor Period - Domestic"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,212.72"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3055002,
+	    	"name":"Apparel - Staff"
+	    },
+	    "vendor":{
+	    	"customer_account":"V005134.",
+	    	"customer_name":"Designs To You Australia"
+	    },
+	    "amount":"248.25"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3565001,
+	    	"name":"Travel Accom. Domestic -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"2,045.45"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3570001,
+	    	"name":"Travel Accom. International -Hotel"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006544",
+	    	"customer_name":"Erin Kelsey"
+	    },
+	    "amount":"56.45"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"260.55"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3575002,
+	    	"name":"Travel Domestic -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"286.32"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3575003,
+	    	"name":"Travel Domestic -Taxi"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006544",
+	    	"customer_name":"Erin Kelsey"
+	    },
+	    "amount":"326.74"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3575004,
+	    	"name":"Travel Domestic -Vehicle hire"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"594.03"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"5,890.74"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"525"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3580003,
+	    	"name":"Travel International -Plane"
+	    },
+	    "vendor":{
+	    	"customer_account":"V002196",
+	    	"customer_name":"Show Group Pty Ltd"
+	    },
+	    "amount":"9,265.52"
+	},
+  	{
+	    "project":{
+	    	"code":"104.001.003",
+	    	"name":"Visitor Period - CA Host Staff"
+	    },
+	    "category":{
+	    	"code":3580004,
+	    	"name":"Travel International -Taxi"
+	    },
+	    "vendor":{
+	    	"customer_account":"V006544",
+	    	"customer_name":"Erin Kelsey"
+	    },
+	    "amount":"65.01"
+	 }
+]	
