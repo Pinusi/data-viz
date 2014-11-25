@@ -2,14 +2,18 @@
 <html>
   <head>
     <title>Data Visualisation</title>
-    <link rel="stylesheet" href="/stylesheets/main.min.css">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheets/main.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <script src="/scripts/bower.min.js"></script>
-    <script src="/scripts/script.js"></script>
+    <script src="scripts/bower.min.js"></script>
+    <script src="scripts/scripts.min.js"></script>
   </head>
   <body>
-    <div id="chart_sunburst" class="gallery">
-      <div id="explanation" style="visibility: hidden;"><span id="percentage"></span></div>
+    <div id="chart_sunburst">
+      <div class="sequence"></div>
+      <div class="chart">
+        <div style="visibility: hidden;" class="explanation"><span class="percentage"></span></div>
+      </div>
     </div>
   </body>
 </html>

@@ -21,8 +21,8 @@ module.exports = function(grunt) {
     watch: {
       js: {
           files: ['<%= cartelle.development %>/scripts/{,*/}*.js'],
-          // tasks: ['jshint','uglify'],
-          tasks: ['copy'],
+          tasks: ['jshint','uglify'],
+          // tasks: ['copy'],
           options: {
               livereload: true
           }
@@ -217,22 +217,23 @@ module.exports = function(grunt) {
                 src: [
                     '{,*/}*.jade'
                 ]
-            },
-            {
-                expand: true,
-                dot: true,
-                cwd: '<%= cartelle.development %>',
-                dest: '<%= cartelle.distribution %>',
-                src: [
-                    'scripts/script.js'
-                ]
-            }]
+            }
+            // {
+            //     expand: true,
+            //     dot: true,
+            //     cwd: '<%= cartelle.development %>',
+            //     dest: '<%= cartelle.distribution %>',
+            //     src: [
+            //         'scripts/script.js'
+            //     ]
+            // }
+            ]
         }
     },
 
     uglify: {
       options: {
-        beautify: true,
+        beautify: false,
         mangle: false
       },
       bower: {
@@ -240,14 +241,14 @@ module.exports = function(grunt) {
           '<%= cartelle.distribution %>/scripts/bower.min.js': ['<%= cartelle.temporary %>/scripts/bower.js'],
           '<%= cartelle.server_public %>/scripts/bower.min.js': ['<%= cartelle.temporary %>/scripts/bower.js']
         }
-      }
+      },
       // },
-      // scripts: {
-      //   files: {
-      //     '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js'],
-      //     '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js']
-      //   }
-      // }
+      scripts: {
+        files: {
+          '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js'],
+          '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js']
+        }
+      }
     },
 
     // 'ftp-deploy': {
@@ -312,7 +313,7 @@ module.exports = function(grunt) {
         'clean',
         'jshint',
         'concurrent',
-        // 'uglify:scripts',
+        'uglify:scripts',
         'bower_concat',
         'uglify:bower',
         'cssmin',
