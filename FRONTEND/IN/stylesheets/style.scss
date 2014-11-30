@@ -3,56 +3,83 @@ body {
   font-size: 12px;
   font-weight: 400;
   background-color: #fff;
-  width: 960px;
-  height: 700px;
-  margin-top: 10px;
+  margin: 0px;
+  position: relative;
 
-	#chart_sunburst {
+  li{
+  	list-style: none;
+  }
 
-		.chart {
-			position: relative;
-		}
+  ul{
+  	margin: 0px;
+	padding: 0px;
+  }
 
-		.explanation {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			width: 140px;
-			text-align: center;
-			color: #666;
-			z-index: -1;
+	/*MENU*/
+	.dv_menu{
+		position: absolute;
+		min-height: 100%;
+		background-color: #5F6474;
+		width: 232px;
+		top: 0px;
+		right: 0px;
+		overflow: hidden;
+		overflow-y: scroll;
+
+		li{
+			height: 87px;
 			font-size: 20px;
-			margin-left: -70px;
-			line-height: 40px;
-			margin-top: -20px;
+			line-height: 67px;
+			padding: 10px;
+			box-sizing: border-box;
+			color: #BEC1CC;
 		}
 
-		.percentage {
-			font-size: 2.5em;
+		li.dv_info{
+			text-align: center;
 		}
 
-		.sequence {
-			width: 600px;
-			height: 70px;
-			text{
-				font-weight: 600;
-				fill: #fff;
+		li.dv_title{
+			background-color: #FF6055;
+			color: #fff;
+			text-align: center;
+			font-size: 40px;
+		}
+
+		li.dv_option{
+			background-color: #686D7C;
+			border-bottom: solid 1px #5F6475;
+			cursor: pointer;
+
+			&.active{
+				background-color: #464A57;
+			}
+			&:hover{
+				background-color: #464A57;
 			}
 		}
 	}
+
+	/*PAGE*/
+	.dv_page{
+		margin-right: 232px;
+
+		.dashboard_title{
+			margin-left: 10px;
+			border-bottom: solid 1px #FF6055;
+			color: #FF6055;
+			text-align: right;
+			padding-right: 10px;
+			font-size: 20px;
+			line-height: 27px;
+			padding-top: 60px;
+		}
+	}
+
+	/*GRIDSTER*/
+	.gridster{
+		li{
+			border: solid 1px #6DCFC1;
+		}
+	}
 }
-
-/*#main {
-  float: left;
-  width: 750px;
-}*/
-
-/*#sidebar {
-  float: right;
-  width: 100px;
-}*/
-
-/*#chart path {
-  stroke: #fff;
-}
-*/

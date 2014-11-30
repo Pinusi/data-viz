@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     // Watches files for changes and runs tasks based on the changed files
     watch: {
       js: {
-          files: ['<%= cartelle.development %>/scripts/{,*/}*.js'],
+          files: ['<%= cartelle.development %>/scripts/{,*/}*.js','<%= cartelle.development %>/widgets/{,*/}*.js'],
           tasks: ['jshint','uglify'],
           // tasks: ['copy'],
           options: {
@@ -98,7 +98,10 @@ module.exports = function(grunt) {
     
     bower_concat: {
       all: {
-        dest: '<%= cartelle.temporary %>/scripts/bower.js'
+        dest: '<%= cartelle.temporary %>/scripts/bower.js',
+        mainFiles: {
+          'gridster': "dist/jquery.gridster.min.js"
+        }
       }
     },
 
@@ -215,7 +218,27 @@ module.exports = function(grunt) {
                 cwd: '<%= cartelle.development %>',
                 dest: '<%= cartelle.server_views %>',
                 src: [
-                    '{,*/}*.jade'
+                    '*.jade'
+                ]
+            },
+            {
+                expand: true,
+                dot: true,
+                flatten: true,
+                cwd: '<%= cartelle.development %>/widgets',
+                dest: '<%= cartelle.server_public %>/templates',
+                src: [
+                    '{,*/}*.html'
+                ]
+            },
+            {
+                expand: true,
+                dot: true,
+                flatten: true,
+                cwd: '<%= cartelle.development %>/widgets',
+                dest: '<%= cartelle.distribution %>/templates',
+                src: [
+                    '{,*/}*.html'
                 ]
             }
             // {
@@ -233,7 +256,7 @@ module.exports = function(grunt) {
 
     uglify: {
       options: {
-        beautify: false,
+        beautify: true,
         mangle: false
       },
       bower: {
@@ -245,8 +268,8 @@ module.exports = function(grunt) {
       // },
       scripts: {
         files: {
-          '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js'],
-          '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js']
+          '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js' ],
+          '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js']
         }
       }
     },
@@ -268,13 +291,11 @@ module.exports = function(grunt) {
           files: [{
               '<%= cartelle.distribution %>/stylesheets/main.min.css': [
                   '<%= cartelle.temporary %>/stylesheets/{,*/}*.css',
-                  '<%= cartelle.development %>/stylesheets/{,*/}*.css',
-                  '<%= cartelle.development %>/bower_components/bootstrap/dist/css/bootstrap.min.css'
+                  '<%= cartelle.development %>/stylesheets/{,*/}*.css'
               ]},
               {'<%= cartelle.server_public %>/stylesheets/main.min.css': [
                   '<%= cartelle.temporary %>/stylesheets/{,*/}*.css',
-                  '<%= cartelle.development %>/stylesheets/{,*/}*.css',
-                  '<%= cartelle.development %>/bower_components/bootstrap/dist/css/bootstrap.min.css'
+                  '<%= cartelle.development %>/stylesheets/{,*/}*.css'
               ]}]
       }
     },
@@ -290,12 +311,12 @@ module.exports = function(grunt) {
           debug: false
         },
         files: [ {
-                  src: ["**/*.jade", '!layout.jade'],
+                  src: ["*.jade", '!layout.jade'],
                   dest: "<%= cartelle.distribution %>",
                   ext: ".html",
                   expand: true,
                   cwd: "<%= cartelle.development %>"
-                } ]
+                }]
       }
     },
 
