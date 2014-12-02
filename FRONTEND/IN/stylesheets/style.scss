@@ -77,9 +77,12 @@ body {
 	}
 
 	/*GRIDSTER*/
-	.gridster{
-		li{
+	#packery{
+		margin: 10px;
+		
+		.widget{
 			border: solid 1px #6DCFC1;
+			width: 25%;
 		}
 	}
 }

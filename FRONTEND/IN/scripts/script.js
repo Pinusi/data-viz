@@ -17,10 +17,24 @@ DATAVIZ.Main = function()
 
 DATAVIZ.Main.prototype.setListeners = function()
 {
-	$(".gridster ul").gridster({
-        widget_margins: [10, 10],
-        widget_base_dimensions: [140, 140]
-    });
+	// $(".gridster ul").gridster({
+ //        widget_margins: [10, 10],
+ //        widget_base_dimensions: [140, 140]
+ //    });
+
+    var $container = $('#packery');
+	// init
+	$container.packery({
+	  itemSelector: '.widget',
+	  gutter: 0
+	});
+
+	$container.find('.widget').each( function( i, itemElem ) {
+  		// make element draggable with Draggabilly
+  		var draggie = new Draggabilly( itemElem );
+  		// bind Draggabilly events to Packery
+  		$container.packery( 'bindDraggabillyEvents', draggie );
+	});
 }
 
 // DATAVIZ.Main.prototype.initializeWidgets = function()

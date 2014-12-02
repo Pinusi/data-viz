@@ -15,6 +15,8 @@
     "d3": "~3.4.13",
     "foundation": "~5.4.7",
     "gridster": "~0.5.6",
-    "angular": "~1.3.5"
+    "angular": "~1.3.5",
+    "packery": "~1.3.0",
+    "draggabilly": "~1.1.0"
   }
 }

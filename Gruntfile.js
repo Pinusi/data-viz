@@ -100,7 +100,13 @@ module.exports = function(grunt) {
       all: {
         dest: '<%= cartelle.temporary %>/scripts/bower.js',
         mainFiles: {
-          'gridster': "dist/jquery.gridster.min.js"
+          'packery': "dist/packery.pkgd.min.js"
+        },
+        exclude: [
+          'gridster'
+        ],
+        dependencies: {
+          'packery': ['jquery']
         }
       }
     },

@@ -11,23 +11,13 @@
   <body ng-app="dataviz">
     <div class="dv_page">
       <div class="dashboard_title">Title</div>
-      <div class="gridster">
-        <ul>
-          <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-            <div dataviz-widget="Text" ng-controller="textWidget" ng-include="template.url" class="widget"></div>
-          </li>
-          <li data-row="2" data-col="1" data-sizex="1" data-sizey="1"></li>
-          <li data-row="3" data-col="1" data-sizex="1" data-sizey="1"></li>
-          <li data-row="1" data-col="2" data-sizex="2" data-sizey="1"></li>
-          <li data-row="2" data-col="2" data-sizex="2" data-sizey="2"></li>
-          <li data-row="1" data-col="4" data-sizex="1" data-sizey="1"></li>
-          <li data-row="2" data-col="4" data-sizex="2" data-sizey="1"></li>
-          <li data-row="3" data-col="4" data-sizex="1" data-sizey="1"></li>
-          <li data-row="1" data-col="5" data-sizex="1" data-sizey="1"></li>
-          <li data-row="3" data-col="5" data-sizex="1" data-sizey="1"></li>
-          <li data-row="1" data-col="6" data-sizex="1" data-sizey="1"></li>
-          <li data-row="2" data-col="6" data-sizex="1" data-sizey="2"></li>
-        </ul>
+      <div id="packery">
+        <div class="widget">
+          <div dataviz-widget="Text" ng-controller="textWidget" ng-include="template.url"></div>
+        </div>
+        <div class="widget"></div>
+        <div class="widget"></div>
+        <div class="widget"></div>
       </div>
     </div>
     <div class="dv_menu">
