@@ -17,52 +17,28 @@ DATAVIZ.Main = function()
 
 DATAVIZ.Main.prototype.setListeners = function()
 {
-	// $(".gridster ul").gridster({
- //        widget_margins: [10, 10],
- //        widget_base_dimensions: [140, 140]
- //    });
 
     var $container = $('#packery');
 	// init
-	$container.packery({
-	  itemSelector: '.widget',
-	  gutter: 0
-	});
 
-	$container.find('.widget').each( function( i, itemElem ) {
-  		// make element draggable with Draggabilly
-  		var draggie = new Draggabilly( itemElem );
-  		// bind Draggabilly events to Packery
-  		$container.packery( 'bindDraggabillyEvents', draggie );
-	});
+	setTimeout(function(){
+		$container.packery({
+		  	gutter: ".gutter-sizer",
+            itemSelector: '.widget',
+            "columnWidth": ".grid-sizer"
+		});
+
+		$container.find('.widget').each( function( i, itemElem ) {
+	  		// make element draggable with Draggabilly
+	  		var draggie = new Draggabilly( itemElem );
+	  		// bind Draggabilly events to Packery
+	  		$container.packery( 'bindDraggabillyEvents', draggie );
+		});
+	}, 1000);
 }
-
-// DATAVIZ.Main.prototype.initializeWidgets = function()
-// {
-// 	$.each( $( '.widget' ), function()
-//     {
-//         var widgetName = $( this ).attr("dataviz-widget");
-//         window.DATAVIZ.WIDGETS.WidgetName = new DATAVIZ.WIDGETS [ widgetName ].Main( $( this ), {} );
-//     } );
-// }
 
 /*
 	WIDGET INITIALIZE
  */
 
 window.DATAVIZ = new DATAVIZ.Main();
-
-
-
-// constructor = 'window.DATAVIS.CLIENT.WIDGET_NAME'
-// parts = constructor.split('.') // [ PULSE, CLIENT, WIDGET_NAME ]
-
-// window.DATAVIZ.WidgetName = new DATAVIZ.[ widgetName ].Main(  )
-
-// for(i = 0; i <parts; i++)
-// {
-// 	var functionName
-// 	if( parts[0] )
-// 		if( parts[0][ parts[1] ] )
-// 			functionName = parts[0][ parts[1] ]
-// }

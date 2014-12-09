@@ -1,3 +1,5 @@
+@import "compass/css3";
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
@@ -17,7 +19,7 @@ body {
 
 	/*MENU*/
 	.dv_menu{
-		position: absolute;
+		position: fixed;
 		min-height: 100%;
 		background-color: #5F6474;
 		width: 232px;
@@ -44,6 +46,7 @@ body {
 			color: #fff;
 			text-align: center;
 			font-size: 40px;
+			font-family: 'Lobster', cursive;
 		}
 
 		li.dv_option{
@@ -63,6 +66,7 @@ body {
 	/*PAGE*/
 	.dv_page{
 		margin-right: 232px;
+		min-height: 750px;
 
 		.dashboard_title{
 			margin-left: 10px;
@@ -79,10 +83,21 @@ body {
 	/*GRIDSTER*/
 	#packery{
 		margin: 10px;
-		
+
+		.gutter-sizer {
+		  width: 2%;
+		}
+
+		.grid-sizer {
+		  width: 49%;
+		}
+
 		.widget{
+			width: 49%;
 			border: solid 1px #6DCFC1;
-			width: 25%;
+			padding: 10px;
+			background-color: #fff;
+			@include box-sizing(border-box);
 		}
 	}
 }

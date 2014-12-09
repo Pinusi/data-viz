@@ -21,7 +21,7 @@ module.exports = function(grunt) {
     watch: {
       js: {
           files: ['<%= cartelle.development %>/scripts/{,*/}*.js','<%= cartelle.development %>/widgets/{,*/}*.js'],
-          tasks: ['jshint','uglify'],
+          tasks: ['jshint','uglify','concat'],
           // tasks: ['copy'],
           options: {
               livereload: true
@@ -32,7 +32,7 @@ module.exports = function(grunt) {
           tasks: ['default']
       },
       compass: {
-          files: ['<%= cartelle.development %>/stylesheets/{,*/}*.{scss,sass}'],
+          files: ['<%= cartelle.development %>/stylesheets/{,*/}*.{scss,sass}','<%= cartelle.development %>/widgets/{,*/}*.{scss,sass}'],
           tasks: ['compass', 'cssmin']
       },
       styles: {
@@ -42,6 +42,10 @@ module.exports = function(grunt) {
       jade:{
         files: ['<%= cartelle.development %>/{,*/}*.jade'],
         tasks: ['jade', 'copy']
+      },
+      html:{
+        files: ['<%= cartelle.development %>/widgets/{,*/}*.html'],
+        tasks: ['copy']
       },
       images:{
         files: ['<%= cartelle.development %>*.{gif,jpeg,jpg,png,svg,webp}'],
@@ -260,6 +264,16 @@ module.exports = function(grunt) {
         }
     },
 
+    concat: {
+      options: {
+        separator: ';',
+      },
+      dist: {
+        src: ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js' ],
+        dest: '<%= cartelle.distribution %>/scripts/scripts.min.js',
+      },
+    },
+
     uglify: {
       options: {
         beautify: true,
@@ -270,14 +284,13 @@ module.exports = function(grunt) {
           '<%= cartelle.distribution %>/scripts/bower.min.js': ['<%= cartelle.temporary %>/scripts/bower.js'],
           '<%= cartelle.server_public %>/scripts/bower.min.js': ['<%= cartelle.temporary %>/scripts/bower.js']
         }
-      },
-      // },
-      scripts: {
-        files: {
-          '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js' ],
-          '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js']
-        }
       }
+      // scripts: {
+      //   files: {
+      //     '<%= cartelle.distribution %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js' ],
+      //     '<%= cartelle.server_public %>/scripts/scripts.min.js': ['<%= cartelle.development %>/scripts/**.js','<%= cartelle.development %>/widgets/{,*/}*.js']
+      //   }
+      // }
     },
 
     // 'ftp-deploy': {
@@ -340,7 +353,8 @@ module.exports = function(grunt) {
         'clean',
         'jshint',
         'concurrent',
-        'uglify:scripts',
+        'concat',
+        // 'uglify:scripts',
         'bower_concat',
         'uglify:bower',
         'cssmin',

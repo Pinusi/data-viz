@@ -3,8 +3,10 @@
   <head>
     <title>Data Visualisation</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="stylesheets/main.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="stylesheets/main.min.css">
     <script src="scripts/bower.min.js"></script>
     <script src="scripts/scripts.min.js"></script>
   </head>
@@ -12,12 +14,26 @@
     <div class="dv_page">
       <div class="dashboard_title">Title</div>
       <div id="packery">
-        <div class="widget">
-          <div dataviz-widget="Text" ng-controller="textWidget" ng-include="template.url"></div>
+        <div class="gutter-sizer"></div>
+        <div class="grid-sizer"></div>
+        <div ng-controller="textWidget" class="widget">
+          <div dataviz-widget-text></div>
         </div>
-        <div class="widget"></div>
-        <div class="widget"></div>
-        <div class="widget"></div>
+        <div ng-controller="sunBurst" class="widget">
+          <div dataviz-widget-sunburst></div>
+        </div>
+        <div class="widget">
+          <div>Ciao</div>
+        </div>
+        <div class="widget">
+          <div>Ciao</div>
+        </div>
+        <div class="widget">
+          <div>Ciao</div>
+        </div>
+        <div class="widget">
+          <div>Ciao</div>
+        </div>
       </div>
     </div>
     <div class="dv_menu">

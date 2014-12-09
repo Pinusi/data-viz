@@ -1,11 +1,20 @@
 extends layout
 
 block content
-    div.dv_page
-        div.dashboard_title Title
-        div#packery
-            div.widget
-                div(dataviz-widget="Text" ng-controller="textWidget" ng-include="template.url")
-            div.widget
-            div.widget
-            div.widget
+	div.dv_page
+		div.dashboard_title Title
+		div#packery
+			div.gutter-sizer
+			div.grid-sizer
+			div.widget(ng-controller="textWidget")
+				div(dataviz-widget-text)
+			div.widget(ng-controller="sunBurst")
+				div(dataviz-widget-sunburst)
+			div.widget
+				div Ciao
+			div.widget
+				div Ciao
+			div.widget
+				div Ciao
+			div.widget
+				div Ciao

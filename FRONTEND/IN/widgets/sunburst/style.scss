@@ -1,0 +1,35 @@
+#chart_sunburst {
+
+	height: 400px;
+	
+	.chart {
+		position: relative;
+	}
+
+	.explanation {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 140px;
+		text-align: center;
+		color: #666;
+		z-index: 2;
+		font-size: 12px;
+		margin-left: -70px;
+		line-height: 40px;
+		margin-top: -20px;
+	}
+
+	.percentage {
+		font-size: 2.5em;
+	}
+
+	.sequence {
+		width: 100%;
+		height: 50px;
+		text{
+			font-weight: 10px;
+			fill: #fff;
+		}
+	}
+}
