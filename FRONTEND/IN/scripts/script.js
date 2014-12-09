@@ -18,9 +18,11 @@ DATAVIZ.Main = function()
 DATAVIZ.Main.prototype.setListeners = function()
 {
 
+	//variables
     var $container = $('#packery');
-	// init
-
+    var $modal = $('.dv_modal');
+	
+	// init packery
 	setTimeout(function(){
 		$container.packery({
 		  	gutter: ".gutter-sizer",
@@ -35,6 +37,13 @@ DATAVIZ.Main.prototype.setListeners = function()
 	  		$container.packery( 'bindDraggabillyEvents', draggie );
 		});
 	}, 1000);
+
+	//modal event
+	$modal.on('click',function( e ){
+		var $box = $('.dv_modal .container');
+	   	if(!$box.is( e.target ) && $box.has( e.target ).length === 0)
+	      	$( this ).hide();
+	});
 }
 
 /*
