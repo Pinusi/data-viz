@@ -43,6 +43,7 @@ DATAVIZ.Main.prototype.setListeners = function()
 		var $box = $('.dv_modal .container');
 	   	if(!$box.is( e.target ) && $box.has( e.target ).length === 0)
 	      	$( this ).hide();
+			$("body").removeClass("modal-open");
 	});
 }
 
