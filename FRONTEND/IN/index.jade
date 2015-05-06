@@ -1,14 +1,14 @@
 extends layout
 
-mixin widget(name)
+mixin widget(widgetname,title)
 	div.relative
 		div.header
-			a.settings(href="#" ng-click='')
+			a.settings(href="#" ng-click='openSettings()')
 				i.fa.fa-cog
-			| Title
+			| #{title}
 			a.open_modal(href="#" ng-click='openModal()')
 				i.fa.fa-arrows-alt
-		div.container(class="dataviz-widget-#{name}")
+		div.container(class="dataviz-widget-#{widgetname}")
 
 block content
 	div.dv_page
@@ -17,9 +17,9 @@ block content
 			div.gutter-sizer
 			div.grid-sizer
 			div.widget(ng-controller="textWidget")
-				+widget("text")
+				+widget("text","Text Example")
 			div.widget(ng-controller="sunBurst")
-				+widget("sunburst")
+				+widget("sunburst","Sunburst Example")
 			div.widget
 				+widget
 			div.widget

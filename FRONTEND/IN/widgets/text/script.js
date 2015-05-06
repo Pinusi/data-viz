@@ -4,7 +4,7 @@ angular.module('dataviz')
 })
 .directive('datavizWidgetText', function() {
 	return {
-		restrict: "A",
+		restrict: "C",
 		templateUrl: 'templates/text.html'
 	};
 });

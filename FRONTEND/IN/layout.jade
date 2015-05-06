@@ -12,7 +12,7 @@ html
     script(src='scripts/scripts.min.js')
   body(ng-app="dataviz")
     block content
-    div.dv_menu
+    div.dv_menu(ng-controller="menuController")
         ul
             li.dv_title dataviz
             li.dv_info info
@@ -21,3 +21,4 @@ html
             li.dv_option Page 1
     div.dv_modal(style="display:none;")
         div.container
+            div.header Prova

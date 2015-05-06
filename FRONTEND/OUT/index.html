@@ -19,43 +19,43 @@
         <div class="grid-sizer"></div>
         <div ng-controller="textWidget" class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a>Text Example<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-text"></div>
           </div>
         </div>
         <div ng-controller="sunBurst" class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a>Sunburst Example<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-sunburst"></div>
           </div>
         </div>
         <div class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a><a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-undefined"></div>
           </div>
         </div>
         <div class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a><a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-undefined"></div>
           </div>
         </div>
         <div class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a><a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-undefined"></div>
           </div>
         </div>
         <div class="widget">
           <div class="relative">
-            <div class="header"><a href="#" ng-click="" class="settings"><i class="fa fa-cog"></i></a>Title<a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
+            <div class="header"><a href="#" ng-click="openSettings()" class="settings"><i class="fa fa-cog"></i></a><a href="#" ng-click="openModal()" class="open_modal"><i class="fa fa-arrows-alt"></i></a></div>
             <div class="container dataviz-widget-undefined"></div>
           </div>
         </div>
       </div>
     </div>
-    <div class="dv_menu">
+    <div ng-controller="menuController" class="dv_menu">
       <ul>
         <li class="dv_title">dataviz</li>
         <li class="dv_info">info</li>
@@ -65,7 +65,9 @@
       </ul>
     </div>
     <div style="display:none;" class="dv_modal">
-      <div class="container"></div>
+      <div class="container">
+        <div class="header">Prova</div>
+      </div>
     </div>
   </body>
 </html>

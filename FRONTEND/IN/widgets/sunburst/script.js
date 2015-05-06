@@ -5,6 +5,8 @@ angular.module('dataviz')
 		console.log('clicked');
 		$("body").addClass("modal-open");
 		$(".dv_modal").show();
+
+		//aggiugnere quello che deve andare nella modal
 	};
 })
 .directive('datavizWidgetSunburst', function() {
